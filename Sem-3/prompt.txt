@@ -1,0 +1,8 @@
+make word file from provided md file and follow this instruction :
+1- limit of report is 20 pages
+2- font: times new roman
+3- size: heading = 14, sub heading = 12,  text = 11
+4- no text on header and footer
+5- justified content
+6- acedemic tone and professional doc
+7- line spacing 1.5

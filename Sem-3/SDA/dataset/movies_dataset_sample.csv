@@ -1,0 +1,101 @@
+movie_id,title,year,genre,duration,rating,votes,revenue_million,budget_million,language,country,director,main_cast,ott_platforms,content_rating,metascore,popularity,awards_won
+1,Spider-Man: No Way Home 1452,2002,"Romance, Biography",88,6.9,1804482,101.5,117.0,French,India,Greta Gerwig,"Christian Bale, Aamir Khan, Scarlett Johansson","Prime Video, HBO Max, Apple TV+",G,67,65.0,9
+2,Joker 66,1962,"Romance, Sci-Fi",84,8.1,1033296,2468.7,461.2,Spanish,South Korea,Quentin Tarantino,"Tom Hanks, Scarlett Johansson, Leonardo DiCaprio","Apple TV+, Disney+, HBO Max",PG,71,66.5,16
+3,Parasite 415,2003,Sci-Fi,178,6.0,999683,1057.4,332.6,Korean,India,Ridley Scott,"Christian Bale, Tom Hanks, Scarlett Johansson","Apple TV+, Netflix, Prime Video",PG-13,55,27.3,19
+4,Frozen 2009,1956,"Horror, Adventure",145,6.6,2501259,2396.0,209.3,Hindi,India,Rajkumar Hirani,"Shah Rukh Khan, Aamir Khan, Leonardo DiCaprio","Netflix, Prime Video, HBO Max",PG,83,71.2,10
+5,Pathaan 1445,2002,"Horror, Fantasy, Comedy",95,4.6,41776,1487.9,165.1,Korean,UK,Rajkumar Hirani,"Prabhas, Tom Hanks, Robert Downey Jr.","Disney+, HBO Max",G,66,96.2,6
+6,Joker 2004,2018,Fantasy,141,4.4,439470,2343.1,375.4,Spanish,India,Greta Gerwig,"Leonardo DiCaprio, Ranbir Kapoor, Christian Bale",Disney+,PG-13,54,46.5,10
+7,Gladiator 1077,2013,Comedy,104,6.0,627467,1956.4,252.4,Hindi,India,James Cameron,"Scarlett Johansson, Aamir Khan, Alia Bhatt","Prime Video, Apple TV+, Netflix",G,43,79.3,19
+8,Joker 313,2000,Action,116,9.3,1659984,2464.5,248.4,Hindi,India,Christopher Nolan,"Aamir Khan, Alia Bhatt, Ranbir Kapoor",Disney+,R,40,49.6,8
+9,3 Idiots 236,1950,Comedy,96,5.3,2303217,1185.6,274.2,French,India,Christopher Nolan,"Tom Hanks, Leonardo DiCaprio, Shah Rukh Khan","Disney+, Apple TV+",PG-13,57,69.3,3
+10,Spider-Man: No Way Home 1862,2011,"Biography, Drama",97,7.1,977266,1276.8,371.4,Korean,South Korea,Quentin Tarantino,"Tom Hanks, Shah Rukh Khan, Alia Bhatt",Netflix,PG,80,67.9,15
+11,3 Idiots 1335,2012,"Thriller, Biography",124,7.2,1003095,1216.1,293.2,French,South Korea,James Cameron,"Aamir Khan, Alia Bhatt, Christian Bale","Apple TV+, Prime Video",PG,89,48.7,1
+12,Avatar 1426,2000,"Biography, Romance",132,7.3,1915164,2289.3,371.3,Spanish,India,Bong Joon-ho,"Shah Rukh Khan, Scarlett Johansson, Alia Bhatt","Prime Video, HBO Max",PG,54,99.5,12
+13,Avengers: Endgame 924,2022,"Romance, Biography",124,8.6,603747,2108.8,44.2,Spanish,UK,Bong Joon-ho,"Prabhas, Shah Rukh Khan, Scarlett Johansson","Apple TV+, HBO Max, Disney+",PG-13,89,73.8,4
+14,The Matrix 89,2025,Thriller,130,5.7,364958,105.0,156.4,French,South Korea,S. S. Rajamouli,"Alia Bhatt, Christian Bale, Robert Downey Jr.","HBO Max, Disney+",PG,70,97.9,8
+15,RRR 541,1991,"Adventure, Sci-Fi, Fantasy",100,8.0,1022472,2044.6,247.1,Hindi,USA,Christopher Nolan,"Christian Bale, Robert Downey Jr., Tom Hanks",Netflix,G,35,48.8,13
+16,Inception 1862,1997,Sci-Fi,179,4.4,2994658,391.0,194.5,Spanish,India,S. S. Rajamouli,"Shah Rukh Khan, Robert Downey Jr., Alia Bhatt","Prime Video, Apple TV+, Disney+",PG,42,32.9,0
+17,RRR 1645,2005,"Action, Drama",172,4.2,2930925,995.0,149.2,English,South Korea,Rajkumar Hirani,"Alia Bhatt, Shah Rukh Khan, Christian Bale","Disney+, Apple TV+",NC-17,80,36.8,10
+18,Frozen 772,1964,Romance,120,6.0,877196,1560.9,338.4,English,South Korea,Bong Joon-ho,"Alia Bhatt, Prabhas, Scarlett Johansson","Netflix, Prime Video, Apple TV+",NC-17,32,67.8,17
+19,Inception 477,2025,"Fantasy, Thriller",83,6.6,2787559,602.3,20.9,French,USA,Steven Spielberg,"Tom Hanks, Christian Bale, Robert Downey Jr.","Prime Video, HBO Max",NC-17,49,81.0,10
+20,Joker 529,1968,Horror,130,8.2,1988890,1975.8,38.2,French,USA,Bong Joon-ho,"Alia Bhatt, Shah Rukh Khan, Leonardo DiCaprio",Netflix,PG,73,12.0,5
+21,Interstellar 452,1987,Drama,112,4.9,1793104,565.3,283.3,English,South Korea,Martin Scorsese,"Prabhas, Ranbir Kapoor, Tom Hanks",Netflix,NC-17,58,99.7,20
+22,Pushpa 1656,1970,"Horror, Adventure, Biography",113,8.3,2166987,1141.5,498.6,Spanish,Canada,Quentin Tarantino,"Tom Hanks, Scarlett Johansson, Shah Rukh Khan",Disney+,PG-13,32,17.5,3
+23,Gladiator 1732,2007,"Sci-Fi, Adventure, Comedy",141,7.9,1008234,409.7,69.8,Hindi,Canada,Quentin Tarantino,"Ranbir Kapoor, Christian Bale, Prabhas",Prime Video,NC-17,60,32.4,10
+24,Frozen 470,1964,"Biography, Action, Drama",99,8.6,2767958,1507.0,358.4,Spanish,South Korea,James Cameron,"Christian Bale, Scarlett Johansson, Prabhas","Disney+, HBO Max",R,94,33.6,18
+25,Interstellar 608,1967,Romance,161,4.6,178967,1239.6,409.8,Korean,Canada,Bong Joon-ho,"Tom Hanks, Leonardo DiCaprio, Aamir Khan",Apple TV+,PG-13,60,28.1,12
+26,The Godfather 105,1995,"Romance, Sci-Fi",119,4.0,193761,955.7,34.2,Spanish,Canada,Steven Spielberg,"Robert Downey Jr., Tom Hanks, Aamir Khan","Prime Video, Apple TV+, HBO Max",NC-17,33,85.1,13
+27,The Godfather 1844,2023,"Action, Horror",157,4.6,747913,1588.2,86.8,Korean,Canada,Bong Joon-ho,"Robert Downey Jr., Prabhas, Christian Bale",Netflix,G,59,27.0,13
+28,Spider-Man: No Way Home 545,1972,Biography,124,6.1,983811,1461.3,48.5,French,Canada,Steven Spielberg,"Tom Hanks, Alia Bhatt, Scarlett Johansson","Apple TV+, Disney+, HBO Max",R,50,85.5,12
+29,Joker 976,1959,"Adventure, Fantasy, Drama",179,9.0,1753953,2189.3,471.8,Hindi,UK,Rajkumar Hirani,"Tom Hanks, Aamir Khan, Christian Bale","Apple TV+, Prime Video",NC-17,30,47.3,13
+30,The Godfather 64,1952,"Action, Romance, Drama",126,4.8,2525900,34.5,320.5,English,India,Greta Gerwig,"Prabhas, Christian Bale, Shah Rukh Khan","Disney+, Prime Video",G,51,24.0,11
+31,Pushpa 48,2001,"Thriller, Adventure",108,4.1,68993,676.2,375.6,Hindi,Canada,Rajkumar Hirani,"Leonardo DiCaprio, Robert Downey Jr., Christian Bale","Apple TV+, Prime Video",PG-13,37,27.2,8
+32,3 Idiots 714,1967,"Drama, Adventure",137,7.8,215479,316.0,308.0,Hindi,USA,Steven Spielberg,"Ranbir Kapoor, Tom Hanks, Christian Bale","Disney+, Prime Video",NC-17,72,88.4,6
+33,The Dark Knight 1330,1991,Horror,86,6.0,2142486,689.5,495.5,English,UK,Steven Spielberg,"Shah Rukh Khan, Christian Bale, Tom Hanks","Prime Video, HBO Max, Apple TV+",R,52,30.6,14
+34,Interstellar 120,1996,"Drama, Comedy, Horror",163,5.3,1184468,1328.9,383.6,English,South Korea,Rajkumar Hirani,"Ranbir Kapoor, Alia Bhatt, Tom Hanks","Disney+, Apple TV+",NC-17,73,73.8,3
+35,Interstellar 146,1977,Action,165,9.0,1983655,814.5,158.8,Hindi,India,S. S. Rajamouli,"Leonardo DiCaprio, Robert Downey Jr., Tom Hanks","Prime Video, Netflix",PG-13,40,93.9,18
+36,Avengers: Endgame 781,1979,"Romance, Drama, Adventure",128,5.8,60416,296.1,454.5,Korean,Canada,Greta Gerwig,"Prabhas, Scarlett Johansson, Shah Rukh Khan","Apple TV+, Prime Video",R,85,74.1,4
+37,Inception 403,2009,Adventure,144,8.3,2816002,9.6,269.3,English,South Korea,Greta Gerwig,"Leonardo DiCaprio, Alia Bhatt, Shah Rukh Khan","Prime Video, Apple TV+, HBO Max",NC-17,79,10.4,19
+38,Pushpa 227,2019,Fantasy,83,8.3,231324,125.7,405.7,French,South Korea,S. S. Rajamouli,"Christian Bale, Tom Hanks, Aamir Khan",Prime Video,PG,69,38.2,7
+39,Frozen 557,1989,Romance,140,8.0,2495318,736.9,481.0,French,South Korea,Greta Gerwig,"Christian Bale, Leonardo DiCaprio, Ranbir Kapoor","HBO Max, Apple TV+, Prime Video",R,86,46.0,11
+40,Dangal 535,2023,Adventure,121,9.3,2844302,87.6,413.6,English,India,Quentin Tarantino,"Aamir Khan, Ranbir Kapoor, Christian Bale",Netflix,PG,50,57.0,16
+41,Parasite 144,1978,"Fantasy, Biography, Action",134,6.3,1167931,366.9,196.9,Korean,Canada,Rajkumar Hirani,"Robert Downey Jr., Scarlett Johansson, Christian Bale","HBO Max, Prime Video",PG-13,90,34.2,13
+42,The Godfather 1317,1987,"Comedy, Drama, Fantasy",110,8.4,1606914,803.6,454.0,French,India,Ridley Scott,"Scarlett Johansson, Alia Bhatt, Robert Downey Jr.","Apple TV+, Netflix, HBO Max",PG,93,50.4,19
+43,Spider-Man: No Way Home 976,1981,"Sci-Fi, Romance, Horror",108,5.3,2242933,1284.6,115.8,Hindi,Canada,Ridley Scott,"Prabhas, Shah Rukh Khan, Ranbir Kapoor","Netflix, Disney+",R,59,29.1,12
+44,Frozen 1609,1995,"Sci-Fi, Comedy, Horror",167,8.3,6720,2269.4,426.7,Korean,Canada,Ridley Scott,"Robert Downey Jr., Shah Rukh Khan, Scarlett Johansson","HBO Max, Netflix",G,75,57.8,8
+45,Titanic 1879,1981,"Biography, Drama",155,5.2,234454,2417.7,155.4,English,UK,Rajkumar Hirani,"Tom Hanks, Christian Bale, Leonardo DiCaprio",HBO Max,NC-17,54,25.1,2
+46,3 Idiots 1081,1985,Horror,171,8.3,1209053,1445.7,359.2,French,India,Christopher Nolan,"Shah Rukh Khan, Leonardo DiCaprio, Alia Bhatt",Prime Video,PG,62,84.7,1
+47,The Matrix 91,1955,Sci-Fi,85,9.5,2895323,629.9,445.5,Spanish,USA,Quentin Tarantino,"Scarlett Johansson, Ranbir Kapoor, Leonardo DiCaprio","HBO Max, Prime Video",G,75,70.3,6
+48,Frozen 1229,2001,"Romance, Sci-Fi",135,7.4,1111113,2407.1,82.9,French,USA,Steven Spielberg,"Leonardo DiCaprio, Alia Bhatt, Ranbir Kapoor",Netflix,NC-17,73,74.3,3
+49,Titanic 378,1990,"Horror, Fantasy, Adventure",136,7.5,57564,832.7,337.6,Korean,India,S. S. Rajamouli,"Aamir Khan, Tom Hanks, Alia Bhatt","Apple TV+, Disney+, HBO Max",PG,51,95.3,18
+50,3 Idiots 1329,1972,Horror,137,7.9,1574826,2409.7,461.1,English,India,Ridley Scott,"Robert Downey Jr., Tom Hanks, Leonardo DiCaprio","HBO Max, Disney+",G,85,60.7,14
+51,RRR 1877,1987,"Romance, Comedy",148,7.2,2190790,99.2,409.8,Spanish,UK,Ridley Scott,"Prabhas, Alia Bhatt, Christian Bale","Netflix, Apple TV+",R,48,81.9,14
+52,Oppenheimer 603,2023,"Romance, Thriller",152,5.0,314880,1859.6,282.0,Spanish,South Korea,James Cameron,"Leonardo DiCaprio, Robert Downey Jr., Tom Hanks",HBO Max,G,79,33.5,18
+53,The Matrix 74,1987,Drama,92,5.4,442625,961.7,94.4,Korean,South Korea,Martin Scorsese,"Shah Rukh Khan, Tom Hanks, Ranbir Kapoor","Netflix, Disney+",PG-13,58,78.3,15
+54,3 Idiots 1590,2022,"Comedy, Action, Biography",167,4.9,839723,1997.4,398.4,English,South Korea,Greta Gerwig,"Scarlett Johansson, Shah Rukh Khan, Ranbir Kapoor","Prime Video, Apple TV+, HBO Max",PG,53,60.8,4
+55,Titanic 1653,1967,Action,80,8.0,892843,251.5,428.5,Hindi,South Korea,Quentin Tarantino,"Scarlett Johansson, Tom Hanks, Robert Downey Jr.",Netflix,PG,85,82.8,3
+56,Parasite 1574,2025,"Adventure, Action",104,6.5,2418774,1518.1,417.6,English,India,S. S. Rajamouli,"Ranbir Kapoor, Shah Rukh Khan, Leonardo DiCaprio","Prime Video, Apple TV+, Disney+",R,43,41.2,10
+57,The Godfather 851,1967,"Action, Comedy",109,5.0,2851145,1853.8,179.7,Hindi,USA,Bong Joon-ho,"Shah Rukh Khan, Ranbir Kapoor, Tom Hanks","Netflix, Apple TV+, HBO Max",G,56,11.0,2
+58,Pushpa 1106,2010,Romance,178,9.4,58079,813.9,465.7,Korean,South Korea,Quentin Tarantino,"Leonardo DiCaprio, Tom Hanks, Shah Rukh Khan","HBO Max, Netflix",PG-13,69,97.8,8
+59,Parasite 1848,1955,Comedy,86,9.0,434447,82.6,12.5,Spanish,India,Martin Scorsese,"Christian Bale, Robert Downey Jr., Leonardo DiCaprio","Disney+, Netflix, Apple TV+",R,57,31.7,1
+60,Parasite 260,1964,Action,101,4.7,2010134,84.9,81.7,English,South Korea,S. S. Rajamouli,"Christian Bale, Leonardo DiCaprio, Scarlett Johansson","Disney+, HBO Max, Netflix",G,44,12.0,10
+61,The Matrix 1710,1963,"Thriller, Action, Biography",118,8.1,1279749,131.0,318.7,French,UK,Bong Joon-ho,"Tom Hanks, Ranbir Kapoor, Alia Bhatt",Apple TV+,R,42,88.4,15
+62,The Matrix 16,1985,"Thriller, Romance, Biography",131,6.3,962665,628.8,479.4,English,South Korea,Rajkumar Hirani,"Leonardo DiCaprio, Ranbir Kapoor, Alia Bhatt","Netflix, Disney+",R,36,23.9,7
+63,The Matrix 1741,2009,"Horror, Thriller",100,9.0,1650810,2277.9,34.3,Korean,USA,Quentin Tarantino,"Prabhas, Tom Hanks, Alia Bhatt","Netflix, Disney+",NC-17,83,77.8,13
+64,3 Idiots 757,1991,Adventure,89,7.6,326476,2149.7,230.6,Korean,UK,Greta Gerwig,"Christian Bale, Robert Downey Jr., Ranbir Kapoor",Prime Video,PG-13,60,23.8,19
+65,Avatar 1118,1991,"Adventure, Romance, Thriller",149,5.0,1948176,378.6,84.5,Spanish,Canada,James Cameron,"Ranbir Kapoor, Leonardo DiCaprio, Aamir Khan","Disney+, HBO Max, Prime Video",PG,62,87.7,6
+66,Frozen 1340,1966,"Biography, Adventure, Horror",176,8.8,2347107,1682.9,121.3,English,UK,Steven Spielberg,"Leonardo DiCaprio, Robert Downey Jr., Alia Bhatt",Prime Video,NC-17,52,12.3,17
+67,Inception 1920,1965,Comedy,113,5.2,2819143,1882.2,480.9,English,USA,Rajkumar Hirani,"Leonardo DiCaprio, Christian Bale, Prabhas","Disney+, Prime Video",NC-17,45,74.4,0
+68,The Matrix 774,2007,"Fantasy, Biography",108,6.5,474474,2361.5,45.9,Korean,USA,Martin Scorsese,"Leonardo DiCaprio, Prabhas, Robert Downey Jr.",Prime Video,PG-13,80,34.0,14
+69,Interstellar 1868,2000,Sci-Fi,161,5.0,2985996,972.1,389.7,Hindi,UK,James Cameron,"Leonardo DiCaprio, Scarlett Johansson, Robert Downey Jr.",Prime Video,PG-13,41,20.8,18
+70,Joker 1738,1985,"Thriller, Fantasy",90,9.4,2349788,843.9,461.6,English,Canada,Martin Scorsese,"Ranbir Kapoor, Prabhas, Shah Rukh Khan","Netflix, Prime Video, Disney+",PG-13,55,66.9,3
+71,Avatar 1008,2021,"Drama, Comedy, Fantasy",103,6.9,1712279,2167.8,302.0,English,USA,Quentin Tarantino,"Ranbir Kapoor, Prabhas, Aamir Khan",HBO Max,G,54,58.7,2
+72,3 Idiots 1035,1991,Comedy,147,5.3,2719560,2313.2,328.2,Spanish,South Korea,Christopher Nolan,"Scarlett Johansson, Shah Rukh Khan, Prabhas","HBO Max, Netflix",G,86,43.3,16
+73,Gladiator 1935,1994,"Drama, Comedy, Horror",86,6.7,298254,2225.2,26.9,Spanish,USA,Ridley Scott,"Christian Bale, Alia Bhatt, Shah Rukh Khan",Apple TV+,PG-13,59,21.2,7
+74,Frozen 1842,2013,"Horror, Adventure, Drama",128,8.1,1586930,2030.7,422.8,English,USA,Martin Scorsese,"Scarlett Johansson, Christian Bale, Aamir Khan",HBO Max,NC-17,69,72.1,1
+75,The Dark Knight 1840,1963,"Comedy, Fantasy, Thriller",116,9.2,2932570,2051.5,496.4,English,USA,Martin Scorsese,"Leonardo DiCaprio, Aamir Khan, Tom Hanks","Apple TV+, Netflix, HBO Max",PG,91,91.6,6
+76,Spider-Man: No Way Home 852,1984,Romance,107,4.0,1370656,1448.2,141.5,English,India,James Cameron,"Scarlett Johansson, Prabhas, Leonardo DiCaprio",Apple TV+,PG,46,46.7,9
+77,Inception 530,1970,"Fantasy, Sci-Fi",157,6.8,1890615,1918.4,376.0,Korean,USA,Quentin Tarantino,"Aamir Khan, Ranbir Kapoor, Scarlett Johansson","Netflix, Apple TV+",R,32,56.0,9
+78,The Matrix 635,1986,"Adventure, Horror",94,4.8,779890,31.7,71.8,French,South Korea,Christopher Nolan,"Leonardo DiCaprio, Tom Hanks, Ranbir Kapoor","Disney+, Prime Video",PG,59,44.8,12
+79,Avengers: Endgame 1078,1971,Fantasy,97,6.1,476358,1374.0,340.3,English,UK,James Cameron,"Tom Hanks, Robert Downey Jr., Ranbir Kapoor","Apple TV+, Prime Video",PG-13,64,25.4,15
+80,Inception 960,1997,"Sci-Fi, Action, Romance",117,4.1,1364499,1964.6,394.3,French,Canada,James Cameron,"Christian Bale, Shah Rukh Khan, Prabhas","HBO Max, Prime Video, Netflix",PG,76,26.1,16
+81,Interstellar 903,1977,"Comedy, Action, Romance",144,7.7,2941823,1067.0,2.2,Hindi,USA,James Cameron,"Christian Bale, Prabhas, Robert Downey Jr.","Disney+, Apple TV+, Prime Video",G,73,96.4,20
+82,Pushpa 313,1999,"Drama, Horror",84,4.1,2213539,1947.1,316.7,Hindi,USA,Greta Gerwig,"Ranbir Kapoor, Leonardo DiCaprio, Prabhas","Apple TV+, HBO Max, Netflix",PG-13,48,38.4,19
+83,Avengers: Endgame 1674,2001,"Comedy, Action",148,8.2,2987093,1922.7,62.8,English,Canada,James Cameron,"Leonardo DiCaprio, Alia Bhatt, Shah Rukh Khan","HBO Max, Apple TV+",R,57,39.4,18
+84,3 Idiots 600,1972,"Fantasy, Sci-Fi",137,8.6,2362152,675.3,62.7,English,UK,James Cameron,"Robert Downey Jr., Scarlett Johansson, Prabhas","Apple TV+, Netflix, Disney+",G,36,57.7,4
+85,The Dark Knight 1013,1966,Action,106,8.6,2628110,1539.0,422.4,Korean,Canada,Quentin Tarantino,"Scarlett Johansson, Prabhas, Christian Bale",Netflix,PG-13,81,19.4,8
+86,Oppenheimer 1127,1973,"Biography, Action, Fantasy",154,8.6,1097725,540.4,310.3,French,India,Martin Scorsese,"Aamir Khan, Robert Downey Jr., Alia Bhatt",Apple TV+,PG-13,67,92.5,8
+87,3 Idiots 953,2011,"Fantasy, Horror, Biography",151,8.2,2393106,1661.0,228.4,Spanish,UK,Martin Scorsese,"Shah Rukh Khan, Ranbir Kapoor, Scarlett Johansson","Prime Video, Disney+",R,36,82.5,17
+88,Pushpa 586,2019,Fantasy,105,4.4,2591496,2339.4,77.6,Spanish,India,Rajkumar Hirani,"Leonardo DiCaprio, Prabhas, Shah Rukh Khan",Prime Video,G,43,78.1,10
+89,The Matrix 1872,1961,"Fantasy, Thriller",151,7.9,1357550,2198.3,366.1,English,USA,Bong Joon-ho,"Shah Rukh Khan, Robert Downey Jr., Ranbir Kapoor",Apple TV+,G,92,39.2,4
+90,RRR 1522,1982,"Adventure, Biography, Sci-Fi",118,6.5,2947388,1243.5,87.0,Spanish,USA,Ridley Scott,"Alia Bhatt, Prabhas, Christian Bale",Disney+,PG-13,86,42.7,19
+91,Dangal 338,1951,"Horror, Sci-Fi",83,6.0,2740284,1100.7,47.5,French,India,Bong Joon-ho,"Christian Bale, Leonardo DiCaprio, Tom Hanks","Netflix, Disney+",PG,72,81.8,7
+92,Avatar 744,1962,"Adventure, Horror, Biography",127,4.9,1590073,467.7,287.4,English,USA,S. S. Rajamouli,"Christian Bale, Scarlett Johansson, Alia Bhatt","HBO Max, Prime Video",G,39,91.2,0
+93,The Matrix 1574,2015,"Comedy, Thriller, Fantasy",150,8.0,1599275,1883.4,306.0,Korean,India,Quentin Tarantino,"Scarlett Johansson, Alia Bhatt, Prabhas","Apple TV+, Disney+",G,76,93.7,2
+94,Inception 1347,2023,"Biography, Sci-Fi, Fantasy",111,4.6,2704666,2115.3,44.8,Korean,Canada,Rajkumar Hirani,"Robert Downey Jr., Alia Bhatt, Prabhas",Disney+,PG,46,77.4,9
+95,Baahubali 1543,1988,Romance,128,7.5,2743714,1505.3,26.9,English,Canada,Greta Gerwig,"Alia Bhatt, Leonardo DiCaprio, Scarlett Johansson","Prime Video, Netflix",PG-13,90,58.0,16
+96,The Matrix 444,1966,"Sci-Fi, Horror, Action",168,5.9,609295,1263.9,266.0,English,UK,Christopher Nolan,"Christian Bale, Ranbir Kapoor, Alia Bhatt",Netflix,R,33,81.3,7
+97,Pushpa 275,2019,"Adventure, Sci-Fi",167,6.9,842007,1102.5,213.0,Spanish,UK,Steven Spielberg,"Tom Hanks, Leonardo DiCaprio, Ranbir Kapoor",Apple TV+,PG,67,81.7,4
+98,Avengers: Endgame 1748,1999,"Romance, Action",165,5.4,659439,2463.0,317.2,French,UK,Quentin Tarantino,"Ranbir Kapoor, Robert Downey Jr., Aamir Khan","Disney+, Netflix",PG,63,32.3,12
+99,3 Idiots 228,2002,"Thriller, Romance",153,4.2,664643,1307.5,33.5,Hindi,UK,Martin Scorsese,"Tom Hanks, Shah Rukh Khan, Alia Bhatt",HBO Max,G,94,37.4,2
+100,RRR 536,1991,Drama,177,5.1,1985163,517.5,415.2,Korean,Canada,Bong Joon-ho,"Shah Rukh Khan, Ranbir Kapoor, Christian Bale",Apple TV+,NC-17,53,12.0,7
