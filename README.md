@@ -1,2 +1,2 @@
 # Jain
-uni stuff
+University Study Material
